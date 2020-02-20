@@ -9,6 +9,7 @@ import com.amazonaws.mobile.auth.core.IdentityManager
 import com.amazonaws.mobile.client.AWSMobileClient
 import com.amazonaws.mobile.config.AWSConfiguration
 
+
 class MainActivity : AppCompatActivity() {
 
     companion object {
